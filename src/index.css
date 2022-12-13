@@ -1,0 +1,9 @@
+.box{
+  margin-top: 20px;
+  background-color: white;
+}
+.box h1{
+  text-align: left;
+  font-size: 30px;
+  color: black;
+}
